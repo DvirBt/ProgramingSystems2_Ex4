@@ -9,7 +9,7 @@
 #include <vector>
 
 /**
- * A costumed namespace.
+ * A custom namespace.
  */
 namespace Ex4Container
 {

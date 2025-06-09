@@ -1,15 +1,15 @@
 Programing Systems 2 - Assignment 4
 -
-This repository contains the fourth assignment in the course Programming Systems 2.\n
-This assignment mainly focuses on templates, containers, iterators, algorithms and functors.\n
-We were required to implement a generic container suitable to all the comparable data types such as int, double, char and string.
+This repository contains the fourth assignment in the course Programming Systems 2.  
+This assignment mainly focuses on templates, containers, iterators, algorithms and functors.  
+We were required to implement a generic container suitable to all comparable data types such as int, double, char and string etc.
 
 The core of this assignment
 -
-1. Implement and use containers, iterators, algorithms and functors in C++.
+1. Implement and use templates, containers, iterators, algorithms and functors in C++.
 2. To search and use new algorithms in the STL library.
-3. Throw exceptions if needed.
-4. Create Test class to check functionality using doctest.
+3. Throw exceptions when needed.
+4. Create Test class to check functionality using DocTest.
 
 Makefile commands
 -
@@ -28,7 +28,7 @@ My project files are divided to 2 directories:\n
 
 Important notes
 -
-1. Each class and function has it's description and explanation above it.
+1. Each class and function has it's own description and explanation above it's signiture.
 2. MyContainer class and each Iterator inner class has it's own TEST CASE.
 3. To run the main: make Main -> ./Main -> results.
 4. To run the tests: make test -> ./Tests -> results.

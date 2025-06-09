@@ -2,7 +2,7 @@ Programing Systems 2 - Assignment 4
 -
 This repository contains the fourth assignment in the course Programming Systems 2.  
 This assignment mainly focuses on templates, containers, iterators, algorithms and functors.  
-We were required to implement a generic container suitable to all comparable data types such as int, double, char and string etc.
+We were required to implement a generic container suitable to all comparable data types such as int, double, char, string etc.
 
 The core of this assignment
 -
